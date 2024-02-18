@@ -37,7 +37,7 @@ Follow these instructions to set up and run the application:
    ```
 
 4. Configure the database connection:
-   
+
    - Create a MySQL database for the application.
    - Set your MySQL database credentials and other environment variables in the `.env` file.
 
